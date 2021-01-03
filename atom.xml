@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mythoi.github.io</id>
     <title>mythoi</title>
-    <updated>2020-11-03T03:30:30.277Z</updated>
+    <updated>2021-01-03T14:16:35.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mythoi.github.io"/>
     <link rel="self" href="https://mythoi.github.io/atom.xml"/>
     <subtitle>这里荒芜寸草不生，后来你来这走了一遭，奇迹般万物生长，这里是我的心。</subtitle>
     <logo>https://mythoi.github.io/images/avatar.png</logo>
     <icon>https://mythoi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, mythoi</rights>
+    <rights>All rights reserved 2021, mythoi</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://mythoi.github.io/post/hello-gridea/</id>
